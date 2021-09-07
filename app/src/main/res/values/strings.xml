@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyOpenGLRenderYUV</string>
+    <string name="display">display_yuv</string>
+</resources>
